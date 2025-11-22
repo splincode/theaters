@@ -1,4 +1,4 @@
-## Театры и представления
+## Театры
 
 - [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
 - [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
